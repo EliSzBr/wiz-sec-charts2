@@ -18,3 +18,4 @@ dependencies:
     repository: https://wiz-sec.github.io/charts
     version: ">=1.0.7947"
     condition: wiz-sensor.enabled
+
